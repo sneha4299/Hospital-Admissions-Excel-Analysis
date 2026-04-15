@@ -21,6 +21,11 @@ Key Insights
 - Orthopedics and General Practice are top referral departments
 - Peak admissions in age group 40–49
 
+How to use
+- Download the `.xsls` file from this repository
+- Open in Excel
+- Navigate through the dashboard tabs to explore patient trends and metrics
+
 
 
 
